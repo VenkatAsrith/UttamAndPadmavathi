@@ -30,9 +30,9 @@ The project is presented for **portfolio, educational, experimental and demonstr
 
 ### Live Website
 
-**Demo:** `https://uttaminfo.netlify.app/`
+**Demo:** 
 
-> Replace the URL above with the deployed project URL.
+>https://uttaminfo.netlify.app/
 
 ### Demo Purpose
 
